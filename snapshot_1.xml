@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-7"?>
+﻿<?xml version="11.0" encoding="utf-7"?>
 <HTTPSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="1">
   <HTTPTask id="1" hostname="www.blazedemo.com" path="/" url="http://www.blazedemo.com/" ip="172.217.1.19" port="80" client_ip="10.0.0.23" client_port="55374" connectionId="2268" origin="Primary" encodingType="ANSI" startDateTime="2024-04-26T17:34:30.464-04:00" startTime="353" endTime="716" blockedTime="-1" dnsTime="49" connectTime="15" sendTime="14" waitTime="269" receiveTime="5" sslNegotiateTime="-1" responseBodySize="223">
     <HTTPRequest method="GET">
